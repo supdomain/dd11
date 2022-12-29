@@ -1,9 +1,1 @@
-{
-	"domain_list": [
-		"api.js77m.com",
-		"api.js77n.com",
-		"api.js77p1.com",
-		"api.js77r.com",
-		"api.js77s.com"
-	]
-}
+{"data":["api.js77u1.com","api.js77w.com","api.js77x1.com","api.js77y.com","api.js77z.com"],"ok": true}
